@@ -85,7 +85,7 @@ export default function Hero() {
               style={{ clipPath: 'polygon(30% 0%, 100% 0%, 70% 100%, 0% 100%)' }}>
               {/* Replace this div with an actual <img> tag later */}
               <div>
-                <img src="/portrait.jpg" alt="Rishav Portrait" className="h-full w-full object-cover   group-hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100" />
+                <img src="/1.jpg" alt="Rishav Portrait" className="h-full w-full object-cover   group-hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100" />
               </div>
             </div>
           </div>
